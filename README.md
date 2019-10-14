@@ -11,3 +11,5 @@
 
   commang line to activate ngrok
       ngrok http 8080
+      lt port 8080
+--- done
